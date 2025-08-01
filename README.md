@@ -17,5 +17,5 @@ Praticar manipulação de tema com JavaScript, aplicando conceitos de interaçã
 - CSS3 (com variáveis de cor para fácil personalização)
 - JavaScript (para alternar temas)
 
-📁 Como visualizar o projeto
+## 📁 Como visualizar o projeto
 Você pode clonar o repositório e abrir o arquivo index.html no seu navegador
